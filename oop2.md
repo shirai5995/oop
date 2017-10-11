@@ -2,8 +2,8 @@
 
 名前、年齢をコンストラクタで指定できるようにする。  
 （コンストラクタのオーバーロード）
-br
-br
+<br>
+<br>
 ```
 using System;
 class Metro
