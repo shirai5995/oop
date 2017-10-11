@@ -4,10 +4,10 @@
 給与は年齢＊１００００円である  
 クラスの属性として、名前、年齢のデータ、給与計算メソッドを持つ。  
     
-> Mainをもつクラスを作りMainを実装
-
-
-
+> Mainをもつクラスを作りMainを実装する
+<br>
+<br>
+<br>
 ```
  using System;
  class Metro
@@ -25,7 +25,6 @@
         return this.age * 10000;
     }
  }
-
  class ex
  {
     static void Main()
