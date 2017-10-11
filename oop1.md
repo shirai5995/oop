@@ -8,10 +8,11 @@
 <br>
 <br>
 <br>
+
 ```
- using System;
- class Metro
- {
+using System;
+class Metro
+{
     public String name;
     public int  age;
 
@@ -24,14 +25,15 @@
     {
         return this.age * 10000;
     }
- }
- class ex
- {
+}
+class ex
+{
     static void Main()
     {
         Metro mt = new Metro();
         Console.Write("NAME {0}, AGE {1}, SAL {2}\n",
                         mt.name, mt.age, mt.salary());
     }
- }
+}
+
 ```
