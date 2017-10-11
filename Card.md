@@ -49,7 +49,7 @@ class CardDealer
 
     public CardDealer()
     {
-        dist = 0;
+        dist = CARD_NUM;
         for (int i = 0; i < CARD_NUM; i++)
             this.deck[i] = new Card(i % 13 + 1, i / 13);
     }
