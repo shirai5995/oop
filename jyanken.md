@@ -49,9 +49,9 @@ class Program
 <br>
 <br>
 ジャンケンプログラム
+
 ```
 using System;
-
 class Program
 {
     static void Main()
